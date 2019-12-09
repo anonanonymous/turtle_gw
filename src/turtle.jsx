@@ -16,7 +16,6 @@ class Turtle extends React.Component {
     }
 
     componentDidMount() {
-        console.log("mounting:", this.props)
         fetch("https://gist.githubusercontent.com/anonanonymous/96d7a777c3ce5a067f95d77378b6befa/raw/c4d1b659bab51057243e2a144801006e0f53a557/gistfile1.txt")
             .then(data => {
                 data.text().then(text => this.setState({
@@ -36,8 +35,7 @@ class Turtle extends React.Component {
     }
 
     updateBlock = (height = "top") => {
-        console.log("pinh", height)
-        fetch("https:/blockapi.turtlepay.io/block/header/" + height)
+        fetch("https://blockapi.turtlepay.io/block/header/" + height)
             .then(data => data.json())
             .then(data => {
                 if (this.state.block === null || data.height !== this.state.block.height) {
