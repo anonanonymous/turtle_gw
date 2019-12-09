@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/anonanonymous/turtle_gw/static/css/main.782336af.chunk.css",
+    "main.js": "/anonanonymous/turtle_gw/static/js/main.4b67a486.chunk.js",
+    "main.js.map": "/anonanonymous/turtle_gw/static/js/main.4b67a486.chunk.js.map",
+    "runtime-main.js": "/anonanonymous/turtle_gw/static/js/runtime-main.d129549d.js",
+    "runtime-main.js.map": "/anonanonymous/turtle_gw/static/js/runtime-main.d129549d.js.map",
+    "static/js/2.13ee255f.chunk.js": "/anonanonymous/turtle_gw/static/js/2.13ee255f.chunk.js",
+    "static/js/2.13ee255f.chunk.js.map": "/anonanonymous/turtle_gw/static/js/2.13ee255f.chunk.js.map",
+    "index.html": "/anonanonymous/turtle_gw/index.html",
+    "precache-manifest.9886ff28aabb2f212bc3382f99771b14.js": "/anonanonymous/turtle_gw/precache-manifest.9886ff28aabb2f212bc3382f99771b14.js",
+    "service-worker.js": "/anonanonymous/turtle_gw/service-worker.js",
+    "static/css/main.782336af.chunk.css.map": "/anonanonymous/turtle_gw/static/css/main.782336af.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d129549d.js",
+    "static/js/2.13ee255f.chunk.js",
+    "static/css/main.782336af.chunk.css",
+    "static/js/main.4b67a486.chunk.js"
+  ]
+}
