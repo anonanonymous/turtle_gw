@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ec59e19da69f3ff4cd54113089dd170b",
+    "revision": "aae33625981b387d94730eb323a14acc",
     "url": "/turtle_gw/index.html"
   },
   {
-    "revision": "dfbe55e4846073372f9d",
+    "revision": "1333cd632f239abebc6c",
     "url": "/turtle_gw/static/css/main.782336af.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/turtle_gw/static/js/2.13ee255f.chunk.js"
   },
   {
-    "revision": "dfbe55e4846073372f9d",
-    "url": "/turtle_gw/static/js/main.30b1af30.chunk.js"
+    "revision": "1333cd632f239abebc6c",
+    "url": "/turtle_gw/static/js/main.413f7780.chunk.js"
   },
   {
     "revision": "80c651d4e576379874b0",
